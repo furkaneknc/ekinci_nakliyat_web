@@ -3,19 +3,20 @@ import { Home, Building2, Truck, Package, Warehouse, Shield } from "lucide-react
 
 const services = [
   {
-    icon: Home,
-    title: "Ev Taşıma",
-    description: "Eşyalarınızı özenle paketliyor, sigortalı olarak yeni evinize güvenle taşıyoruz.",
+    icon: Truck,
+    title: "Şehir İçi Nakliye",
+    description: "İstanbul Avrupa Yakası’nda faaliyet gösteren firmalara ve bireysel müşterilere şehir içi taşımacılık çözümleri sunuyoruz.",
   },
-  {
-    icon: Building2,
-    title: "Ofis Taşıma",
-    description: "İş yerinizi minimum aksama ile profesyonel ekibimizle yeni adresinize taşıyoruz.",
-  },
+
   {
     icon: Truck,
     title: "Şehirler Arası Nakliye",
     description: "Modern kamyon filomuz ile Türkiye'nin her şehrine güvenli taşımacılık.",
+  },
+  {
+    icon: Home,
+    title: "Ev ve Ofis Taşıma",
+    description: "Ev ve İş yerinizi minimum aksama ile profesyonel ekibimizle yeni adresinize taşıyoruz.",
   },
 
   {

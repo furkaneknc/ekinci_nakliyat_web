@@ -13,10 +13,10 @@ export default function SehirlerArasiPage() {
       <section className="relative bg-gradient-to-br from-primary via-primary/95 to-primary/90 text-primary-foreground py-20 pt-32">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6 text-balance">Şehirler Arası Nakliye Hizmeti</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-6 text-balance">Şehir İçi ve Şehirler Arası Nakliye Hizmeti</h1>
             <p className="text-xl text-primary-foreground/90 mb-8 text-pretty leading-relaxed">
-              Türkiye'nin her yerine güvenli taşıma. 81 ile ulaşan geniş ağımız ve deneyimli sürücülerimizle
-              eşyalarınızı zamanında teslim ediyoruz.
+              İstanbul içi ve Türkiye geneli taşımacılıkta güvenli, sigortalı ve zamanında teslimat.
+              Her ölçekten yükünüz için profesyonel nakliye çözümleri sunuyoruz.
             </p>
             <div className="flex flex-wrap gap-4">
               <Button size="lg" variant="secondary" asChild>
@@ -71,7 +71,7 @@ export default function SehirlerArasiPage() {
       <section className="py-16">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
-            <h2 className="text-3xl font-bold mb-8">Şehirler Arası Taşıma Avantajları</h2>
+            <h2 className="text-3xl font-bold mb-8">Şehir İçi ve Şehirler Arası Taşıma Avantajları</h2>
 
             <div className="space-y-6">
               <div className="flex gap-4">
@@ -122,11 +122,11 @@ export default function SehirlerArasiPage() {
               <div className="grid md:grid-cols-2 gap-4 mb-6">
                 <div className="flex items-center gap-2">
                   <MapPin className="h-5 w-5 text-primary" />
-                  <span>İstanbul - Bursa</span>
+                  <span>İstanbul - İstanbul</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <MapPin className="h-5 w-5 text-primary" />
-                  <span>İstanbul - İzmir</span>
+                  <span>İstanbul - Bursa</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <MapPin className="h-5 w-5 text-primary" />
@@ -134,16 +134,17 @@ export default function SehirlerArasiPage() {
                 </div>
                 <div className="flex items-center gap-2">
                   <MapPin className="h-5 w-5 text-primary" />
-                  <span>İstanbul - Kırklareli</span>
+                  <span>İstanbul - İzmir</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <MapPin className="h-5 w-5 text-primary" />
-                  <span>İzmir - Bursa</span>
+                  <span>İstanbul - Bursa</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <MapPin className="h-5 w-5 text-primary" />
-                  <span>İstanbul - Samsun</span>
+                  <span>İzmir - Trakya</span>
                 </div>
+
               </div>
               <p className="text-muted-foreground mb-6">
                 Bu güzergahlar dışında Türkiye'nin her şehrine taşıma hizmeti veriyoruz. Fiyat teklifi için bizimle

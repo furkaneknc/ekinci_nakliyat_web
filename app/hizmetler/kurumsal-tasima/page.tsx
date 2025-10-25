@@ -119,15 +119,7 @@ export default function KurumsalTasimaPage() {
                 </div>
               </div>
 
-              <div className="flex gap-4">
-                <CheckCircle className="h-6 w-6 text-primary flex-shrink-0 mt-1" />
-                <div>
-                  <h3 className="font-semibold text-lg mb-2">Personel Eşyası Taşıma</h3>
-                  <p className="text-muted-foreground">
-                    Şehir değiştiren çalışanlarınızın ev eşyalarını taşıma hizmeti. Kurumsal indirimli fiyatlar.
-                  </p>
-                </div>
-              </div>
+
             </div>
 
             <div className="mt-12 bg-primary/5 border border-primary/20 rounded-lg p-8">

@@ -168,7 +168,7 @@ export default function IletisimPage() {
             <h2 className="text-3xl font-bold mb-8 text-center">Bizi Haritada Bulun</h2>
             <div className="bg-muted rounded-lg overflow-hidden" style={{ height: "450px" }}>
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3010.5234567890123!2d28.6789012345678!3d41.0234567890123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa3f7b6f7b6f7%3A0x1234567890abcdef!2sAdnan%20Kahveci%20Bulvar%C4%B1%2C%20Esenyurt%2F%C4%B0stanbul!5e0!3m2!1str!2str!4v1234567890123!5m2!1str!2str"
+                src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d223.68711059702946!2d28.64298922576989!3d41.034815009465554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1str!2str!4v1761309025679!5m2!1str!2str"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
